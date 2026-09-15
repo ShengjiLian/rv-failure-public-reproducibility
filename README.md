@@ -132,6 +132,6 @@ Windows is the validated full-execution target. Linux/macOS full-run parity is n
 
 ## Repository URL
 
-The canonical GitHub URL should be inserted here after the first release is published:
+Canonical GitHub repository:
 
-`[GITHUB_REPOSITORY_URL]`
+[https://github.com/ShengjiLian/rv-failure-public-reproducibility](https://github.com/ShengjiLian/rv-failure-public-reproducibility)
