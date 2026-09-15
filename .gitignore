@@ -1,0 +1,15 @@
+data/tximport/
+data/processed/
+data/metadata/
+data/raw/
+data/authority/GSE*/
+data/authority/MSigDB/*.gmt
+results/*
+!results/README.md
+logs/
+upload/
+R_library/
+*.zip
+*.part
+.Rhistory
+.RData

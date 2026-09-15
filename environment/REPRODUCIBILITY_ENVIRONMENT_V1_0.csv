@@ -1,0 +1,21 @@
+component,version,requirement,evidence
+R,4.6.1,EXACT,V1.7 Windows clean-room
+Bioconductor,3.23,EXACT,V1.7 Windows clean-room
+BiocManager,1.30.27,EXACT,V1.7 execution log
+DESeq2,1.52.0,EXACT,V1.7 execution log
+tximport,1.40.0,EXACT,V1.7 execution log
+rhdf5,2.56.0,EXACT,V1.7 execution log
+ashr,2.2.63,EXACT,V1.7 execution log
+fgsea,1.38.0,EXACT,V1.7 execution log
+limma,3.68.4,EXACT,V1.7 execution log
+edgeR,4.10.1,EXACT,V1.7 execution log
+Matrix,1.7.5,EXACT,V1.7 execution log
+SeuratObject,5.4.0,EXACT,V1.7 execution log
+digest,0.6.39,EXACT,accepted clean-room environment
+ggplot2,4.0.3,EXACT,V1.7 execution log
+data.table,1.18.6.1,EXACT,V1.7 execution log
+readxl,1.5.0,EXACT,accepted clean-room environment
+S4Vectors,0.50.1,EXACT,accepted clean-room environment
+SummarizedExperiment,1.42.0,EXACT,accepted clean-room environment
+sp,2.2-3,EXACT,accepted clean-room environment
+spam,2.11-4,EXACT,accepted clean-room environment

@@ -1,0 +1,8 @@
+﻿"field","value"
+"version","V1.2"
+"parent_release_sha256","e7f0362357fbbfc0a9fc061894a1a6c3ccad113d661daf35a54362666b76731c"
+"repair_scope","Documentation/provenance + public runner release-manifest guard only"
+"scientific_stage_scripts_changed","NO"
+"scientific_results_changed","NO"
+"runner_guard_change","RV_PUBLIC_RELEASE_FILE_MANIFEST_V1_0.csv -> RV_PUBLIC_RELEASE_FILE_MANIFEST_V1_1.csv"
+"scientific_execution","NO"
