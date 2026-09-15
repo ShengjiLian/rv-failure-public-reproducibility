@@ -1,10 +1,10 @@
 # Manuscript availability wording — release template
 
-Replace `[GITHUB_REPOSITORY_URL]` and, if applicable, `[RELEASE_DOI]` after the public release is created.
+If applicable, replace [RELEASE_DOI] after a DOI-bearing release is created.
 
 ## Code availability
 
-Original analysis code required to reproduce the core scientific analyses is available at `[GITHUB_REPOSITORY_URL]` under the MIT License. The public repository contains a frozen 59-node Windows/R scientific pipeline, exact input hashes, acquisition instructions, environment requirements and machine-readable provenance. Final publication-figure rendering and manuscript assembly are outside the public execution scope and are not required to reproduce the core scientific results.
+Original analysis code required to reproduce the core scientific analyses is available at https://github.com/ShengjiLian/rv-failure-public-reproducibility under the MIT License. The public repository contains a frozen 59-node Windows/R scientific pipeline, exact input hashes, acquisition instructions, environment requirements and machine-readable provenance. Final publication-figure rendering and manuscript assembly are outside the public execution scope and are not required to reproduce the core scientific results.
 
 ## Data availability
 
